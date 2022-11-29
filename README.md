@@ -62,3 +62,9 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+
+#### Para acessar a API coloque o end point
+
+```
+/api/cnab/
+```
